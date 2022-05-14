@@ -1,6 +1,6 @@
 name = "OCCT_jll"
 uuid = "baad4e97-8daa-5946-aac2-2edac59d34e1"
-version = "7.6.2+1"
+version = "7.6.2+2"
 
 [deps]
 Libglvnd_jll = "7e76a0d4-f3c7-5321-8279-8d96eeed0f29"

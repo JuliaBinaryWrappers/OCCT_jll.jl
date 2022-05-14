@@ -1,226 +1,244 @@
 [[OCCT]]
 arch = "aarch64"
-git-tree-sha1 = "9f320ebebf94e1ccfafe04b1db120a0b60657581"
+git-tree-sha1 = "c4c3d02e5cf0793aaedc55b5b7d87efe7edf2410"
 os = "macos"
 
     [[OCCT.download]]
-    sha256 = "649395efdac5cc310d41b6f8f8e2c03f61d6471789fae7e8b81880a34a1af35d"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "b663599f5a38ced14f2817687cf5f0e815bffeabc4d87085691784fc200af02a"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.aarch64-apple-darwin.tar.gz"
 [[OCCT]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a022a52ead042355737387b6c99caf022603deba"
+git-tree-sha1 = "efde9bb87c31f951028f77a25bf9121a9ac43749"
 libc = "glibc"
 os = "linux"
 
     [[OCCT.download]]
-    sha256 = "6d33821b525adf3d1dc82ec3fca7d926dada788dbefc8e52b76564f4ed64efe7"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "458ceec1a59f3c34050de8a44c6a87c66e797bdaa115556caad58acc45d949d9"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.aarch64-linux-gnu-cxx03.tar.gz"
 [[OCCT]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f32b26cbaaf8c3be780ee23e965cf5035558a7da"
+git-tree-sha1 = "9484a88020554ef4bf6ac6469f62111d129a712a"
 libc = "glibc"
 os = "linux"
 
     [[OCCT.download]]
-    sha256 = "573a0625fd25c836261d3628974fdc1829eb2c82ff0f8c1576b8076140aedf84"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "cc8f645b6cb8061ec89045dc7f6ed3b00187629ca9732f2f2d3a26c2be9d8234"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[OCCT]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "587fe531f73eddf438a448cc024474de2f4e3a75"
+git-tree-sha1 = "df48883202c4abff182d90e64f20bd00a6595ff9"
 libc = "musl"
 os = "linux"
 
     [[OCCT.download]]
-    sha256 = "deec0f57b95f123974e530fe16fb5ef2dfece52e52af0ea74b092c91aa86956e"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "578d875211508e0d226b5a90fcbbeb06f0703efa326b520d7053fcdded5861c1"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.aarch64-linux-musl-cxx03.tar.gz"
 [[OCCT]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3887e1ebd49db2ffd5b4ad3c60674a2c220a195e"
+git-tree-sha1 = "116e359e6bf2c15e23c7c90d6f02dd1d05a5372d"
 libc = "musl"
 os = "linux"
 
     [[OCCT.download]]
-    sha256 = "d0ce6df4cb109ac5673e027d7aaf452710d54f0bf46973b589809ef10b35908e"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "004fa67744ee961a8be3c0f39600cfaf4f06bd5de82a109917aa06d0795a128b"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.aarch64-linux-musl-cxx11.tar.gz"
 [[OCCT]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c8026bac2437b044179dc033e544b33170f0cce9"
+git-tree-sha1 = "ef3d21e25486bc88bf2cfc42cbc70d1f306498f3"
 libc = "glibc"
 os = "linux"
 
     [[OCCT.download]]
-    sha256 = "877fba79cf4e16be53128e451c97ab5eda8fe57b4155d865d9754feda0f53529"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "4ecc5527d3f5267e190a6741a857524dab3edb025563194a6259c50be0e12ba4"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[OCCT]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b4ea820df8f7b053c1dbd7ca952a7903b44a58c6"
+git-tree-sha1 = "b43aef7b5237613b94fd10facc263ee2b8894e97"
 libc = "glibc"
 os = "linux"
 
     [[OCCT.download]]
-    sha256 = "ed0186507ef89620ba196aeb0606f5a79e962b3b16e3dcc29ff1235279d845cc"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "671398a34482afa40d4c1ec41691c18f77dd4a8c3624cb2e1b4d9892a6bbaed9"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[OCCT]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "90e94d3d95fef612e21774e48f65f52fc26ebe8c"
+git-tree-sha1 = "6746391669e4f56128e75f8b86815bc2916a643d"
 libc = "musl"
 os = "linux"
 
     [[OCCT.download]]
-    sha256 = "18e15fcd75e35a18458d3de5e4e6483a458b68eea693cec9a4976831811c487c"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "319af87733372fbfd326b74080530ef7a7017c848f2323cfeebd5d647f60ff93"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[OCCT]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "99408c2c129c480a40e7f7080d4be68a484e5235"
+git-tree-sha1 = "8d0118c21f1c7e13c49e14d4745922a30a762b2c"
 libc = "musl"
 os = "linux"
 
     [[OCCT.download]]
-    sha256 = "4425dcb7d0f4b545252b59cfa78979eae8af9c681ac79fdfb3e83089ddf0eabd"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "f6f8f8d59280563dacb30471beb6e497a40ddf17306a13f45ad092c50715b5a6"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[OCCT]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bc84e60bae0c774f2c007980627cd7fe800dca8a"
+git-tree-sha1 = "3eeec0e759464e528533bf0bcba43655d9dd5be8"
 libc = "glibc"
 os = "linux"
 
     [[OCCT.download]]
-    sha256 = "b0ec3be281f892dc86fdc899568083306e0371964cde021e418fde6912cd3627"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "5c6a5daf58cad66433a0e6d056b78bc9f1b5d4d0e03c77b2094da19cf573e771"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.i686-linux-gnu-cxx03.tar.gz"
 [[OCCT]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "98f130b459820eadaa728290b955b5f712373875"
+git-tree-sha1 = "f1a320cfb9cffea0cb2d81601d9fef759ea1beec"
 libc = "glibc"
 os = "linux"
 
     [[OCCT.download]]
-    sha256 = "d9df7f0f18d4387026c9d51fe12fb89afe27316fc58b55ebc23348a00e4bf726"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "f39e21d889e35c340fbbb2a0442e02797a24b1a6eae066f57e0dcd2ac48a4b37"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.i686-linux-gnu-cxx11.tar.gz"
 [[OCCT]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "028b2847b6a4fd32ef47ba47e225eab0c2bf4203"
+git-tree-sha1 = "ecd86167d0416c34cf03e604d45065fa2896ed24"
 libc = "musl"
 os = "linux"
 
     [[OCCT.download]]
-    sha256 = "c8ae1f4ddbaae1ce8b4e70361986f00de206d3019c0c180433990bbae77af8b8"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "51df87dcccf97c9e634d05b423c098579a19e0f4b14d5b8633e0e8ac1b181421"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.i686-linux-musl-cxx03.tar.gz"
 [[OCCT]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "03353c634a609d6d11ddfd59967fec9be7559e0d"
+git-tree-sha1 = "3a8d23e97c70373b4af43d70f7a0f46aa57534cd"
 libc = "musl"
 os = "linux"
 
     [[OCCT.download]]
-    sha256 = "45773b4aa3bbd4b1f488948e890238598fda9f344bd36518f75ffaf801869a62"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "72dc7cad9d7240cac2b950736a0ae3251a2c95d9dfa261bca81f18a1f97d317f"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.i686-linux-musl-cxx11.tar.gz"
 [[OCCT]]
 arch = "i686"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e3e93ae3ffa1be13682cdf336c5e470eb2f84e0e"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "381b4f6a0d7f789b1a22f269e62a75b2512d7917"
 os = "windows"
 
     [[OCCT.download]]
-    sha256 = "950d898c3af8781889308fb59ebc590aaac03df7ae6a3d77c554b7afd276e840"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "51e2d2a77e0329092ee8199fd9113d773c7a28b4c72c5cfa70713c92c1ae0935"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.i686-w64-mingw32-cxx03.tar.gz"
+[[OCCT]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b62c941e3ba1ce28e01e90515ecfaf76c698971a"
+os = "windows"
+
+    [[OCCT.download]]
+    sha256 = "de898161ab47a003107dec92ddedb870cfc611d270fe59bb62cf3b67828e1444"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.i686-w64-mingw32-cxx11.tar.gz"
 [[OCCT]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a7e2b5eb63a0c94873eeb1c630d9bed64e9d64af"
+git-tree-sha1 = "8c60d439c9b779341617b59928c0f4637f0376ea"
 libc = "glibc"
 os = "linux"
 
     [[OCCT.download]]
-    sha256 = "e504f4f96ef6aedfe2682a0c15a0a39f1add66093feb6a3cb2c95a24305c501e"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "89227f2f2dd62875c67859de2f933df6ea13eab38487f53abde4bd99455bb562"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[OCCT]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5e7d3ac087c9490f934f873e125e37075b036ffb"
+git-tree-sha1 = "deceec8f56e5a70b4508f143dddecf01c981182e"
 libc = "glibc"
 os = "linux"
 
     [[OCCT.download]]
-    sha256 = "512c8f4ab7005b48875487b27e9cde32f9f79433876d3d04562ba094a7f9f3d1"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "b068dfec40c9a4862132e907a7c6cf98a7c591748acd34f517a075dfca0e5156"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[OCCT]]
 arch = "x86_64"
-git-tree-sha1 = "b217ceba0a5ec2a88391b568da752e62996a8116"
+git-tree-sha1 = "af60b054d592b050b24d37fbdefbc52e351c82ee"
 os = "macos"
 
     [[OCCT.download]]
-    sha256 = "dbcedd7e5897839b01197417662f1a3f6e9c1506e349e1e32f3f3965b1e52226"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "d2eae15abff73eb187da5ce43fd7f0a31fca996f917f9b82e0b3a7cc7b218708"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.x86_64-apple-darwin.tar.gz"
 [[OCCT]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "681cfcc689d8a2b0afe18209d30c0a4f2c85d156"
+git-tree-sha1 = "df53e2c4199aaedd1fa8a43ab7e07d53714fe7f2"
 libc = "glibc"
 os = "linux"
 
     [[OCCT.download]]
-    sha256 = "aedc4351efcf8e1e32d36045ce4ceee3f32c7b930cb37ff3b8462748ac10d89a"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "a2cea58008f5ebe3e31214df82a290c78569b93ca0facaa1fbebc0d9675354e9"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.x86_64-linux-gnu-cxx03.tar.gz"
 [[OCCT]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d4e17c8e7b32081ca18e7e3074632da780be8fb6"
+git-tree-sha1 = "8af9fbd0fecdc5f1c9124b629ab0ab160d2a06df"
 libc = "glibc"
 os = "linux"
 
     [[OCCT.download]]
-    sha256 = "04c411943af2162b7de051cdac9696a8a0bb3eac7cb4ab03fb96d749baad8a3e"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "7a48f5ba188693cba4ca1851e752392215298e8a5bfe763edd52b659b80d6468"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[OCCT]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "88358aba2ef5a3f19bf849f1e4cc6aceda0060d1"
+git-tree-sha1 = "2352578e1f0a325baa43dbb2be33bc1cc4b40bca"
 libc = "musl"
 os = "linux"
 
     [[OCCT.download]]
-    sha256 = "458b6c1714412f0fad8e9eb110b42b2e752d88a4d63b2bee8cbdb81f492b51f4"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "4babe69e2bbf688d76e83d4abe894dc35406bcdad193a5664d32fe77dfcaebe9"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.x86_64-linux-musl-cxx03.tar.gz"
 [[OCCT]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4fbbaacabe38fcc72eeb37bf2130ade89417cd29"
+git-tree-sha1 = "aae19484a3f8f8187ab0d2a637970f556be6787f"
 libc = "musl"
 os = "linux"
 
     [[OCCT.download]]
-    sha256 = "ce1a2073740349dda25058124a0cb23c27c4b0343ffcdcdf4481736ccf90bed1"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "e4b2b3ddaa977731da675e7535440d495fe6c44f78195b05b20e78ddc3616599"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.x86_64-linux-musl-cxx11.tar.gz"
 [[OCCT]]
 arch = "x86_64"
-git-tree-sha1 = "56f4d5e81f611d9258603e9f56e56493b895d90e"
+git-tree-sha1 = "7504c8f9aae743bef134747cef86ee17ae5bc554"
 os = "freebsd"
 
     [[OCCT.download]]
-    sha256 = "240d930106ffdb08d7f186753fc9f073316e23eb0fa5ac0ec7b1856ba6e0a308"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "1b344f24b6703714a79f9caa56762c639567c2a2d853e6d58004eb3fa0bde06f"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.x86_64-unknown-freebsd.tar.gz"
 [[OCCT]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "bbb5dd6f18a99656755e7b52bab7d596c28475e3"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6fa95f78314f59a937b0c9a92fcdc353ea38bfa6"
 os = "windows"
 
     [[OCCT.download]]
-    sha256 = "f77b4cf07acdd2ff9c0754581862bbd143f2d1eba9f2a6a7a5382dce30902b6c"
-    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+1/OCCT.v7.6.2.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "c4b377723764bd2b50977ca65e76be0a7e39448ab45eb293b4e754ec579663af"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.x86_64-w64-mingw32-cxx03.tar.gz"
+[[OCCT]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "727b11f4d15db1defff5d52f2703e904936594c6"
+os = "windows"
+
+    [[OCCT.download]]
+    sha256 = "771b2ce9143c20793b9c2bb028d4fd8c1548a96d1d86cc027be3e8bd15f46ef0"
+    url = "https://github.com/JuliaBinaryWrappers/OCCT_jll.jl/releases/download/OCCT-v7.6.2+2/OCCT.v7.6.2.x86_64-w64-mingw32-cxx11.tar.gz"
