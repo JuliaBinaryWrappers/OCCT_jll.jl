@@ -3,299 +3,299 @@ export libTKBO, libTKBRep, libTKBin, libTKBinL, libTKBinXCAF, libTKBool, libTKCA
 
 using FreeType2_jll
 JLLWrappers.@generate_wrapper_header("OCCT")
-JLLWrappers.@declare_library_product(libTKBO, "@rpath/libTKBO.7.dylib")
-JLLWrappers.@declare_library_product(libTKBRep, "@rpath/libTKBRep.7.dylib")
-JLLWrappers.@declare_library_product(libTKBin, "@rpath/libTKBin.7.dylib")
-JLLWrappers.@declare_library_product(libTKBinL, "@rpath/libTKBinL.7.dylib")
-JLLWrappers.@declare_library_product(libTKBinXCAF, "@rpath/libTKBinXCAF.7.dylib")
-JLLWrappers.@declare_library_product(libTKBool, "@rpath/libTKBool.7.dylib")
-JLLWrappers.@declare_library_product(libTKCAF, "@rpath/libTKCAF.7.dylib")
-JLLWrappers.@declare_library_product(libTKCDF, "@rpath/libTKCDF.7.dylib")
-JLLWrappers.@declare_library_product(libTKFeat, "@rpath/libTKFeat.7.dylib")
-JLLWrappers.@declare_library_product(libTKFillet, "@rpath/libTKFillet.7.dylib")
-JLLWrappers.@declare_library_product(libTKG2d, "@rpath/libTKG2d.7.dylib")
-JLLWrappers.@declare_library_product(libTKG3d, "@rpath/libTKG3d.7.dylib")
-JLLWrappers.@declare_library_product(libTKGeomAlgo, "@rpath/libTKGeomAlgo.7.dylib")
-JLLWrappers.@declare_library_product(libTKGeomBase, "@rpath/libTKGeomBase.7.dylib")
-JLLWrappers.@declare_library_product(libTKHLR, "@rpath/libTKHLR.7.dylib")
-JLLWrappers.@declare_library_product(libTKIGES, "@rpath/libTKIGES.7.dylib")
-JLLWrappers.@declare_library_product(libTKLCAF, "@rpath/libTKLCAF.7.dylib")
-JLLWrappers.@declare_library_product(libTKMath, "@rpath/libTKMath.7.dylib")
-JLLWrappers.@declare_library_product(libTKMesh, "@rpath/libTKMesh.7.dylib")
-JLLWrappers.@declare_library_product(libTKOffset, "@rpath/libTKOffset.7.dylib")
-JLLWrappers.@declare_library_product(libTKPrim, "@rpath/libTKPrim.7.dylib")
-JLLWrappers.@declare_library_product(libTKRWMesh, "@rpath/libTKRWMesh.7.dylib")
-JLLWrappers.@declare_library_product(libTKSTEP, "@rpath/libTKSTEP.7.dylib")
-JLLWrappers.@declare_library_product(libTKSTEP209, "@rpath/libTKSTEP209.7.dylib")
-JLLWrappers.@declare_library_product(libTKSTEPAttr, "@rpath/libTKSTEPAttr.7.dylib")
-JLLWrappers.@declare_library_product(libTKSTEPBase, "@rpath/libTKSTEPBase.7.dylib")
-JLLWrappers.@declare_library_product(libTKSTL, "@rpath/libTKSTL.7.dylib")
-JLLWrappers.@declare_library_product(libTKService, "@rpath/libTKService.7.dylib")
-JLLWrappers.@declare_library_product(libTKShHealing, "@rpath/libTKShHealing.7.dylib")
-JLLWrappers.@declare_library_product(libTKTopAlgo, "@rpath/libTKTopAlgo.7.dylib")
-JLLWrappers.@declare_library_product(libTKV3d, "@rpath/libTKV3d.7.dylib")
-JLLWrappers.@declare_library_product(libTKVCAF, "@rpath/libTKVCAF.7.dylib")
-JLLWrappers.@declare_library_product(libTKVRML, "@rpath/libTKVRML.7.dylib")
-JLLWrappers.@declare_library_product(libTKXCAF, "@rpath/libTKXCAF.7.dylib")
-JLLWrappers.@declare_library_product(libTKXDEIGES, "@rpath/libTKXDEIGES.7.dylib")
-JLLWrappers.@declare_library_product(libTKXDESTEP, "@rpath/libTKXDESTEP.7.dylib")
-JLLWrappers.@declare_library_product(libTKXMesh, "@rpath/libTKXMesh.7.dylib")
-JLLWrappers.@declare_library_product(libTKXSBase, "@rpath/libTKXSBase.7.dylib")
-JLLWrappers.@declare_library_product(libTKXml, "@rpath/libTKXml.7.dylib")
-JLLWrappers.@declare_library_product(libTKXmlL, "@rpath/libTKXmlL.7.dylib")
-JLLWrappers.@declare_library_product(libTKXmlXCAF, "@rpath/libTKXmlXCAF.7.dylib")
-JLLWrappers.@declare_library_product(libTKernel, "@rpath/libTKernel.7.dylib")
+JLLWrappers.@declare_library_product(libTKBO, "@rpath/libTKBO.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKBRep, "@rpath/libTKBRep.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKBin, "@rpath/libTKBin.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKBinL, "@rpath/libTKBinL.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKBinXCAF, "@rpath/libTKBinXCAF.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKBool, "@rpath/libTKBool.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKCAF, "@rpath/libTKCAF.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKCDF, "@rpath/libTKCDF.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKFeat, "@rpath/libTKFeat.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKFillet, "@rpath/libTKFillet.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKG2d, "@rpath/libTKG2d.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKG3d, "@rpath/libTKG3d.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKGeomAlgo, "@rpath/libTKGeomAlgo.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKGeomBase, "@rpath/libTKGeomBase.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKHLR, "@rpath/libTKHLR.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKIGES, "@rpath/libTKIGES.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKLCAF, "@rpath/libTKLCAF.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKMath, "@rpath/libTKMath.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKMesh, "@rpath/libTKMesh.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKOffset, "@rpath/libTKOffset.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKPrim, "@rpath/libTKPrim.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKRWMesh, "@rpath/libTKRWMesh.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKSTEP, "@rpath/libTKSTEP.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKSTEP209, "@rpath/libTKSTEP209.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKSTEPAttr, "@rpath/libTKSTEPAttr.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKSTEPBase, "@rpath/libTKSTEPBase.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKSTL, "@rpath/libTKSTL.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKService, "@rpath/libTKService.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKShHealing, "@rpath/libTKShHealing.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKTopAlgo, "@rpath/libTKTopAlgo.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKV3d, "@rpath/libTKV3d.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKVCAF, "@rpath/libTKVCAF.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKVRML, "@rpath/libTKVRML.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKXCAF, "@rpath/libTKXCAF.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKXDEIGES, "@rpath/libTKXDEIGES.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKXDESTEP, "@rpath/libTKXDESTEP.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKXMesh, "@rpath/libTKXMesh.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKXSBase, "@rpath/libTKXSBase.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKXml, "@rpath/libTKXml.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKXmlL, "@rpath/libTKXmlL.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKXmlXCAF, "@rpath/libTKXmlXCAF.7.7.dylib")
+JLLWrappers.@declare_library_product(libTKernel, "@rpath/libTKernel.7.7.dylib")
 function __init__()
     JLLWrappers.@generate_init_header(FreeType2_jll)
     JLLWrappers.@init_library_product(
         libTKBO,
-        "lib/libTKBO.7.6.2.dylib",
+        "lib/libTKBO.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKBRep,
-        "lib/libTKBRep.7.6.2.dylib",
+        "lib/libTKBRep.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKBin,
-        "lib/libTKBin.7.6.2.dylib",
+        "lib/libTKBin.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKBinL,
-        "lib/libTKBinL.7.6.2.dylib",
+        "lib/libTKBinL.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKBinXCAF,
-        "lib/libTKBinXCAF.7.6.2.dylib",
+        "lib/libTKBinXCAF.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKBool,
-        "lib/libTKBool.7.6.2.dylib",
+        "lib/libTKBool.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKCAF,
-        "lib/libTKCAF.7.6.2.dylib",
+        "lib/libTKCAF.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKCDF,
-        "lib/libTKCDF.7.6.2.dylib",
+        "lib/libTKCDF.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKFeat,
-        "lib/libTKFeat.7.6.2.dylib",
+        "lib/libTKFeat.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKFillet,
-        "lib/libTKFillet.7.6.2.dylib",
+        "lib/libTKFillet.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKG2d,
-        "lib/libTKG2d.7.6.2.dylib",
+        "lib/libTKG2d.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKG3d,
-        "lib/libTKG3d.7.6.2.dylib",
+        "lib/libTKG3d.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKGeomAlgo,
-        "lib/libTKGeomAlgo.7.6.2.dylib",
+        "lib/libTKGeomAlgo.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKGeomBase,
-        "lib/libTKGeomBase.7.6.2.dylib",
+        "lib/libTKGeomBase.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKHLR,
-        "lib/libTKHLR.7.6.2.dylib",
+        "lib/libTKHLR.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKIGES,
-        "lib/libTKIGES.7.6.2.dylib",
+        "lib/libTKIGES.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKLCAF,
-        "lib/libTKLCAF.7.6.2.dylib",
+        "lib/libTKLCAF.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKMath,
-        "lib/libTKMath.7.6.2.dylib",
+        "lib/libTKMath.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKMesh,
-        "lib/libTKMesh.7.6.2.dylib",
+        "lib/libTKMesh.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKOffset,
-        "lib/libTKOffset.7.6.2.dylib",
+        "lib/libTKOffset.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKPrim,
-        "lib/libTKPrim.7.6.2.dylib",
+        "lib/libTKPrim.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKRWMesh,
-        "lib/libTKRWMesh.7.6.2.dylib",
+        "lib/libTKRWMesh.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKSTEP,
-        "lib/libTKSTEP.7.6.2.dylib",
+        "lib/libTKSTEP.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKSTEP209,
-        "lib/libTKSTEP209.7.6.2.dylib",
+        "lib/libTKSTEP209.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKSTEPAttr,
-        "lib/libTKSTEPAttr.7.6.2.dylib",
+        "lib/libTKSTEPAttr.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKSTEPBase,
-        "lib/libTKSTEPBase.7.6.2.dylib",
+        "lib/libTKSTEPBase.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKSTL,
-        "lib/libTKSTL.7.6.2.dylib",
+        "lib/libTKSTL.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKService,
-        "lib/libTKService.7.6.2.dylib",
+        "lib/libTKService.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKShHealing,
-        "lib/libTKShHealing.7.6.2.dylib",
+        "lib/libTKShHealing.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKTopAlgo,
-        "lib/libTKTopAlgo.7.6.2.dylib",
+        "lib/libTKTopAlgo.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKV3d,
-        "lib/libTKV3d.7.6.2.dylib",
+        "lib/libTKV3d.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKVCAF,
-        "lib/libTKVCAF.7.6.2.dylib",
+        "lib/libTKVCAF.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKVRML,
-        "lib/libTKVRML.7.6.2.dylib",
+        "lib/libTKVRML.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKXCAF,
-        "lib/libTKXCAF.7.6.2.dylib",
+        "lib/libTKXCAF.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKXDEIGES,
-        "lib/libTKXDEIGES.7.6.2.dylib",
+        "lib/libTKXDEIGES.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKXDESTEP,
-        "lib/libTKXDESTEP.7.6.2.dylib",
+        "lib/libTKXDESTEP.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKXMesh,
-        "lib/libTKXMesh.7.6.2.dylib",
+        "lib/libTKXMesh.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKXSBase,
-        "lib/libTKXSBase.7.6.2.dylib",
+        "lib/libTKXSBase.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKXml,
-        "lib/libTKXml.7.6.2.dylib",
+        "lib/libTKXml.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKXmlL,
-        "lib/libTKXmlL.7.6.2.dylib",
+        "lib/libTKXmlL.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKXmlXCAF,
-        "lib/libTKXmlXCAF.7.6.2.dylib",
+        "lib/libTKXmlXCAF.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libTKernel,
-        "lib/libTKernel.7.6.2.dylib",
+        "lib/libTKernel.7.7.2.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
