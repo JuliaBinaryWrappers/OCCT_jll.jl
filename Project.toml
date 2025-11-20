@@ -1,6 +1,6 @@
 name = "OCCT_jll"
 uuid = "baad4e97-8daa-5946-aac2-2edac59d34e1"
-version = "7.7.2+0"
+version = "7.9.2+0"
 
 [deps]
 Libglvnd_jll = "7e76a0d4-f3c7-5321-8279-8d96eeed0f29"
@@ -16,8 +16,8 @@ Xorg_libXext_jll = "1082639a-0dae-5f34-9b06-72781eeb8cb3"
 Xorg_libXinerama_jll = "d1454406-59df-5ea1-beac-c340f2130bc3"
 
 [compat]
-JLLWrappers = "1.2.0"
+JLLWrappers = "1.7.0"
 julia = "1.6"
-FreeType2_jll = "2.10.4"
+FreeType2_jll = "2.13.4"
 Libdl = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
